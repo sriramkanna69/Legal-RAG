@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+requests
+pinecone-client
+python-dotenv
